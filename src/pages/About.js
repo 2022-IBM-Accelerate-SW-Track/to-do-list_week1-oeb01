@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import "../About.css";
+import "./About.css";
 import profile from "../assets/profile.jpeg";
   
 export default class About extends Component {
@@ -18,9 +18,9 @@ export default class About extends Component {
           </div>
           <div className="split right">
             <div className="centered">
-              <div className="name_title">Your Name</div>
+              <div className="name_title">Esther Bae</div>
               <div className="brief_description">
-                // Details about you goes here
+                Hello, I am a junior attending Carnegie Mellon University with a major in Information Systems and a minor in Human-Computer Interactions. I am a Korean-American, and I was born and raised in Fairfax, Virginia. I love to crochet, do puzzles, and dance!
               </div>
             </div>
           </div>
